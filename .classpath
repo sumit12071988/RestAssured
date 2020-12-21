@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/annotations-13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/btf-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/groovy-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/groovy-json-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/groovy-xml-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/jackson-annotations-2.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/jackson-core-2.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/jackson-coreutils-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/jackson-databind-2.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/jaxb-impl-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/joda-time-2.9.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/jopt-simple-5.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/json-path-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/json-path-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/json-path-4.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/json-schema-core-1.2.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/json-schema-validator-2.2.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/json-schema-validator-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/json-schema-validator-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/json-schema-validator-4.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/kotlin-extensions-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/kotlin-stdlib-1.3.72.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/kotlin-stdlib-common-1.3.72.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/kotlin-stdlib-jdk7-1.3.72.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/libphonenumber-8.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/mailapi-1.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/msg-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/nio-multipart-parser-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/nio-stream-storage-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/reactive-streams-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/reactor-core-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/rest-assured-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/rest-assured-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/rest-assured-4.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/rest-assured-common-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/rest-assured-common-4.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/rhino-1.7.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/scala-library-2.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/scala-support-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/spring-aop-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/spring-aop-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/spring-beans-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/spring-beans-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/spring-commons-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/spring-context-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/spring-context-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/spring-core-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/spring-core-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/spring-expression-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/spring-expression-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/spring-jcl-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/spring-mock-mvc-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/spring-test-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/spring-test-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/spring-web-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/spring-web-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/spring-webflux-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/spring-webmvc-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/spring-web-test-client-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/uri-template-0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/xml-path-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/xml-path-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/SUPPORTED JARS/xml-path-4.3.1-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/POJO JARS/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/POJO JARS/jackson-annotations-2.11.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/POJO JARS/jackson-core-2.11.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Batto/Desktop/RESTASSURED/POJO JARS/jackson-databind-2.11.2.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
